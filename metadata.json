@@ -1,0 +1,5 @@
+{
+  "name": "Model Architect AI",
+  "description": "An expert system for selecting the optimal AI model for any given task based on capabilities, cost, and performance trade-offs.",
+  "requestFramePermissions": []
+}
